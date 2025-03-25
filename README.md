@@ -1,6 +1,6 @@
 Shopzon 🛒
-Alışveriş tutkunları için tasarlanmış süper kullanıcı dostu bir e-ticaret bombası! <br/>
-Kategorilerle dolu, ürünlerle coşan, detaylarla büyüleyen bir dünya! Sepete at, çıkar, keyfini yaşa!<br/>
+Alışveriş tutkunları için tasarlanmış süper kullanıcı dostu bir e-ticaret bombası! <br/> <br/>
+Kategorilerle dolu, ürünlerle coşan, detaylarla büyüleyen bir dünya! Sepete at, çıkar, keyfini yaşa!<br/> <br/>
 Kullanılan Teknolojiler 🎨<br/>
 ⚡ React: Hızlı <br/>
 ⚡ Redux: Kontrol sende!<br/>
